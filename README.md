@@ -7,7 +7,7 @@ This repository contains the code for my **Student Association of Applied Statis
 We focused on using predictive modeling techniques to analyze historical economic data and predict the likelihood of global economic crises. We tested a variety of different models and conducted EDA and parameter fine-tuning to find the model with the best accuracy 
 
 ### Key Highlights
-- **Dataset**: Utilized a dataset consisting of economic indicators from multiple countries over many decades. Sourced from https://www.hbs.edu/behavioral-finance-and-financial-stability/data/Pages/global.aspx.
+- **Dataset**: Utilized a dataset consisting of economic indicators from multiple countries over many decades. Sourced from https://www.hbs.edu/behavioral-finance-and-financial-stability/data/Pages/global.aspx. We exported this data to Excel, and we reformatted and cleaned the data in our Colab notebook. 
   
 - **Models Used**:
   - Decision Trees
