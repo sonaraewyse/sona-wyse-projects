@@ -21,9 +21,11 @@ We focused on using predictive modeling techniques to analyze historical economi
 ## Project 2 Overview
 
 My role in the project was conducting time series analysis and forecasting with Meta's Prophet procedures. The team we worked with at the Environmental Protection Agency wanted insights on levels of the top 5 most prevalent chemicals across water wells in California. While I was able to build models forecasting levels of certain chemicals, the data was not comprehensive enough for my models to make accurate predictions. Sampling was *too irregular, and there was no continuity across time. Further, there were too many unpredictable events and too little data for certain areas in California.*  
-- **Dataset**: Utilized a dataset consisting of economic indicators from multiple countries over many decades. Sourced from https://www.hbs.edu/behavioral-finance-and-financial-stability/data/Pages/global.aspx. We exported this data to Excel, and we reformatted and cleaned the data in our Colab notebook. 
+
 
 ### Key Highlights
+- **Dataset**: Utilized a dataset on chemical levels in water wells throughout California, provided to us by the team at the EPA. 
+  
 - **Models Used**:
   - Time Series Forecasting models taking into account seasonality, trends, linear or logistic growth
     
