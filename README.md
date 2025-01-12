@@ -37,8 +37,8 @@ My role in the project was conducting time series analysis and forecasting with 
 
 ## Repository Contents
 
-- **`SAAS_FINAL_Project.ipynb`**: Jupyter Notebook containing all the code for the project, from EDA to modeling
-- **`EPA Time Series Forecasting.ipynb`**: Jupyter Notebook containing code used for time series analysis and forecasting
+- **`SAAS_FINAL_Project.ipynb`**: Jupyter Notebook containing all the code for the **economic crisis project**, from EDA to modeling
+- **`EPA Time Series Forecasting.ipynb`**: Jupyter Notebook containing code used for time series analysis and forecasting on **chemical levels**
 - **`README.md`**: This file, summarizing and outlining the project
 
 
